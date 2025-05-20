@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         
          
-        System.out.print("Enter the path to the puzzle file: ");
+        System.out.print("Enter the filename to test (without .txt and make sure the file is in test folder): ");
         String filePath = scanner.nextLine();
         
          

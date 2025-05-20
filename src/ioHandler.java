@@ -11,7 +11,6 @@ public class ioHandler {
         try {
             reader = new BufferedReader(new FileReader("test/" + filePath + ".txt"));
         } catch (FileNotFoundException e) {
-            
             reader = new BufferedReader(new FileReader(filePath));
         }
         
