@@ -1,0 +1,90 @@
+Gerakan 1: I-kiri
+A A B . . F 
+. . B C D F 
+G P P C D F K
+G H I I I . 
+G H J . . . 
+L L J M M . 
+
+Gerakan 2: F-bawah
+A A B . . . 
+. . B C D F 
+G P P C D F K
+G H I I I F 
+G H J . . . 
+L L J M M . 
+
+Gerakan 3: F-bawah
+A A B . . . 
+. . B C D . 
+G P P C D F K
+G H I I I F 
+G H J . . F 
+L L J M M . 
+
+Gerakan 4: C-atas
+A A B C . . 
+. . B C D . 
+G P P . D F K
+G H I I I F 
+G H J . . F 
+L L J M M . 
+
+Gerakan 5: P-kanan
+A A B C . . 
+. . B C D . 
+G . P P D F K
+G H I I I F 
+G H J . . F 
+L L J M M . 
+
+Gerakan 6: D-atas
+A A B C D . 
+. . B C D . 
+G . P P . F K
+G H I I I F 
+G H J . . F 
+L L J M M . 
+
+Gerakan 7: F-bawah
+A A B C D . 
+. . B C D . 
+G . P P . . K
+G H I I I F 
+G H J . . F 
+L L J M M F 
+
+Gerakan 8: P-kanan
+A A B C D . 
+. . B C D . 
+G . . P P . K
+G H I I I F 
+G H J . . F 
+L L J M M F 
+
+Gerakan 9: P-kanan
+A A B C D . 
+. . B C D . 
+G . . . P P K
+G H I I I F 
+G H J . . F 
+L L J M M F 
+
+Gerakan 10: P-kanan
+A A B C D . 
+. . B C D . 
+G . . . . P K
+G H I I I F 
+G H J . . F 
+L L J M M F 
+
+Gerakan 11: P-kanan
+A A B C D . 
+. . B C D . 
+G . . . . . K
+G H I I I F 
+G H J . . F 
+L L J M M F 
+
+Visited nodes: 907
+Execution time: 73 ms

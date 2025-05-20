@@ -1,0 +1,47 @@
+Gerakan 1: B-kanan
+    K      
+A A . B B F 
+. . . C D F 
+G . P C D F 
+G H P I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 2: P-atas
+    K      
+A A . B B F 
+. . P C D F 
+G . P C D F 
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 3: P-atas
+    K      
+A A P B B F 
+. . P C D F 
+G . . C D F 
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 4: P-atas
+    K      
+A A P B B F 
+. . . C D F 
+G . . C D F 
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 5: P-atas
+    K      
+A A . B B F 
+. . . C D F 
+G . . C D F 
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Visited nodes: 254
+Execution time: 64 ms

@@ -1,0 +1,130 @@
+Gerakan 1: C-atas
+A A B C . F 
+. . B C D F 
+G P P . D F K
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 2: P-kanan
+A A B C . F 
+. . B C D F 
+G . P P D F K
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 3: D-atas
+A A B C D F 
+. . B C D F 
+G . P P . F K
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 4: P-kanan
+A A B C D F 
+. . B C D F 
+G . . P P F K
+G H . I I I 
+G H J . . . 
+L L J M M . 
+
+Gerakan 5: G-atas
+A A B C D F 
+G . B C D F 
+G . . P P F K
+G H . I I I 
+. H J . . . 
+L L J M M . 
+
+Gerakan 6: I-kiri
+A A B C D F 
+G . B C D F 
+G . . P P F K
+G H I I I . 
+. H J . . . 
+L L J M M . 
+
+Gerakan 7: F-bawah
+A A B C D . 
+G . B C D F 
+G . . P P F K
+G H I I I F 
+. H J . . . 
+L L J M M . 
+
+Gerakan 8: M-kanan
+A A B C D . 
+G . B C D F 
+G . . P P F K
+G H I I I F 
+. H J . . . 
+L L J . M M 
+
+Gerakan 9: F-bawah
+A A B C D . 
+G . B C D . 
+G . . P P F K
+G H I I I F 
+. H J . . F 
+L L J . M M 
+
+Gerakan 10: H-atas
+A A B C D . 
+G . B C D . 
+G H . P P F K
+G H I I I F 
+. . J . . F 
+L L J . M M 
+
+Gerakan 11: M-kiri
+A A B C D . 
+G . B C D . 
+G H . P P F K
+G H I I I F 
+. . J . . F 
+L L J M M . 
+
+Gerakan 12: H-atas
+A A B C D . 
+G H B C D . 
+G H . P P F K
+G . I I I F 
+. . J . . F 
+L L J M M . 
+
+Gerakan 13: F-bawah
+A A B C D . 
+G H B C D . 
+G H . P P . K
+G . I I I F 
+. . J . . F 
+L L J M M F 
+
+Gerakan 14: P-kanan
+A A B C D . 
+G H B C D . 
+G H . . P P K
+G . I I I F 
+. . J . . F 
+L L J M M F 
+
+Gerakan 15: P-kanan
+A A B C D . 
+G H B C D . 
+G H . . . P K
+G . I I I F 
+. . J . . F 
+L L J M M F 
+
+Gerakan 16: P-kanan
+A A B C D . 
+G H B C D . 
+G H . . . . K
+G . I I I F 
+. . J . . F 
+L L J M M F 
+
+Visited nodes: 67
+Execution time: 36 ms

@@ -1,0 +1,3 @@
+Tidak ada solusi ditemukan.
+Visited nodes: 251
+Execution time: 35 ms
